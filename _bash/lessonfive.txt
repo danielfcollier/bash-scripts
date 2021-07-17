@@ -1,8 +1,0 @@
-Acesso a internet : telnet --nome_do_site--
-Ver o ping: ping --nome_do_site--
-traceroute --nome_do_site-
-who: usuarios no computador.
-write, talk
------>ver manual de make
-:
-
