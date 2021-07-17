@@ -1,0 +1,45 @@
+-echo bla: mostra na tela bla.
+-passwd: mudar de password.
+-hostname: nome da maquina.
+-arch: imprime o nome do hardware do pc(=uname -m).
+-uname -a: imprime todas informacoes do sistema.
+-dmesg:
+-uptime: imprime a hora atual, tempo do sistema rodando, quantidade de users.
+-whoami: nome do usuario logado no pc.
+-who: usuarios logados no server.
+-id: imprime o 'uid' e o 'gid'.
+-last: imprime informacoes sobre os acessos ao pc dos ultimos dias.
+-finger: NAO TEM.
+-w: informacoes sobre os usuarios logados.
+-top: mostra os processos em andamento.
+-echo $SHELL: imprime o local onde estah a shell.
+-echo {con,pre}{sent,fer}{s,ed}: imprime combinacoes das silabas, em ordem.
+-man "automatic door": NAO TEM MANUAL.
+-man ls: acessa o manual de ls.
+-man who: acess o manual de who.
+-who can tell me why i got divorced: who nao possui argumentos para executar a tarefa.
+-lost: NAO TEM.
+-clear: limpa a tela.
+-cal 2000: imprime o calendario do ano 2000.
+-cal 9 1752: imprime o calendario do mes 9 e do ano 1752.
+-bc -l:calculadora.
+-echo 4+5 | bc -l: imprime o resultado de 4+5. 
+-yes please: imprime muitas vezes please.
+-time sleep 5: INDEFINIDO.
+-history:  imprime os comandos ja digitados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

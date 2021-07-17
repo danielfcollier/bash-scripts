@@ -1,0 +1,9 @@
+sig2fv ARQ_ENTRADA.wav -o ARQ_SAIDA.mfc -coefs "melcep" -melcep_order 12 -fbank_order 24 -factor 2.5 -shift 0.01 -preemph 0.97 -window_type hamming
+
+--------------------
+#extração de parâmetros
+for file in `find * -iname "*.wav"`; do sig2fv $file -o ${file/wav/mfc} -coefs "melcep" -melcep_order 12 -fbank_order 24 -factor 2.5 -shift 0.01 -preemph 0.97 -window_type hamming ; echo $file ; done
+
+#juntar em um arquivão .tar
+tar -cv --exclude "*.wav" --exclude "*.txt" . > banco_locutores.tar
+

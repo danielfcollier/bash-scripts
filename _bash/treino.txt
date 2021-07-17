@@ -1,0 +1,21 @@
+wo3 hai2_shi4 xiao_de0 zi4_ji3 dou1 you5_die3_r2 bu4_hao3_yi4_si0_le0 , kan4 talhen3 you1_xin1_chong1_chong1_de muo2_yang4
+
+    si 1.824
+wo3
+    w  1.937583
+   3_o 2.0480001
+hai2_shi4
+    h  2.18325
+   2_l 2.2945831
+    w  2.33
+    S  2.3939171
+   4_o 2.4000531 
+   4_% 2.4460833
+xiao4
+   2_e 2.542222  
+   3_e 2.5598111  
+    x  2.576833
+    y  2.6087501
+   4_W 2.6954169
+,
+    }  3.6730001

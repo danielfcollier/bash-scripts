@@ -1,0 +1,14 @@
+[fore-back]ground
+foreground : primeiro plano, um por vez.[Ctrl+Z] = para a tarefa e eh possivel voltar a roda-la.
+[Ctrl+C] = interrompe e da um kill na tarefa.
+[jobs] = mostra as tarefas em andamento.
+[ps] = mostra os pids das tarefas em andamento.
+
+#Interrompe os processos: 
+[kill %--N--]       #--N-- eh o numero da tarefa.
+[kill --pid--] 
+[kill -9 --job--]   #:-9: interrompe abruptamente.
+
+   
+
+     
